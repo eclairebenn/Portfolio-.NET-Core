@@ -1,0 +1,78 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.col-7, .col-4, .col-3{
+    display: inline-block;
+    vertical-align: top;
+    padding: 0px;
+}
+
+.col-7{
+    margin-top: 10px;
+}
+
+.col-4{
+    max-width: 32.333333%;
+    padding: 5px;
+}
+
+.col-12{
+    width: 100%;
+    padding: 20px;
+}
+.header{
+    background-color: aliceblue;
+    border: black solid 1px;
+}
+h3{
+    display: inline;
+    margin-left: 15px;
+}
+ul {
+    list-style-type: none;
+    display: inline;
+}
+
+ul li{
+    display: inline;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;    
+}
+
+.about{
+    text-align: center;
+}
+
+.about_text{
+    text-align: justify;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+}
+
+.photo{
+    height: auto;
+    margin-left: 471px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 19%;
+}
+
+input, button, textarea{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-group{
+    text-align: center;
+}
